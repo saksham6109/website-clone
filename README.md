@@ -102,7 +102,7 @@ All rights to the original design belong to [Obys Agency](https://obys.agency/).
 
 ## 🧑‍💻 Author
 
-Created by [Your Name](https://github.com/saksham6109)
+Created by Saksham Mishra(https://github.com/saksham6109)
 📧 Contact: saksham1082001@gmail.com
 
 ---
